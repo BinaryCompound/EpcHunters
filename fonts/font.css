@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Actay Wide';
+    src: url('actay_wide/ActayWide-Bold.woff2') format('woff2'),
+         url('actay_wide/ActayWide-Bold.woff') format('woff'),
+         url('actay_wide/ActayWide-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Actay';
+    src: url('./actay/Actay-Regular.otf') format('woff2'),
+    url('./actay/Actay-Regular.otf') format('woff'),
+    url('./actay/Actay-Regular.otf') format('opentype');
+}
